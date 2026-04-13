@@ -15,6 +15,7 @@ I configured role-based access for each employee and ensured all accounts were p
 - Set up individual user logins and PIN authentication  
 - Tested transactions under multiple users  
 - Created a simplified workflow for accessing reports
+- Configured and validated staff-based reporting (Sales by Staff)  
 - Created shortcuts links for direct access to the reports, this way the barber will not get lost.
 - Taught the barber and all his employees on how to use the system.
 
@@ -27,3 +28,11 @@ The system was successfully configured to track sales per employee. This allowed
 
 ## Lessons Learned
 This project highlighted the importance of proper user configuration in POS systems and reinforced my ability to troubleshoot real-world technical issues and communicate solutions to non-technical users.
+
+## Screenshots
+
+### Employee Accounts Setup
+![Employee Accounts](EmployeesAccounts.png)
+
+### Sales by Staff Report
+![Sales Report](ReportTableEmployee.png)
